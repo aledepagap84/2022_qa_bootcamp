@@ -12,6 +12,7 @@ for(let i=0 ; i<= numberinput ; i++){
     }
 }
 console.log(natural);
+
 }
 
 // Problem #2
