@@ -22,6 +22,7 @@ function countDigits(number){
         return 0;
     }
     return 1+ countDigits(~~(number / 10));
+
 }
 function isNarcisistic(number){
     let digits=countDigits(number);
@@ -33,6 +34,7 @@ function isNarcisistic(number){
         }//End while
         console.log('isNarcisistic: '+ sum===number);
     return sum===number;
+
 }
 const solution2= isNarcisistic(153);
 
