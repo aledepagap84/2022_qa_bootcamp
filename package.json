@@ -1,0 +1,23 @@
+{
+  "name": "2022_qa_bootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "homework.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aledepagap84/2022_qa_bootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aledepagap84/2022_qa_bootcamp/issues"
+  },
+  "homepage": "https://github.com/aledepagap84/2022_qa_bootcamp#readme",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
